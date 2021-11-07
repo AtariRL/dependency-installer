@@ -3,3 +3,4 @@ imageio==2.4.0
 PILLOW
 pyglet==1.3.2
 ale-py
+atari-py
