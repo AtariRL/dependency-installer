@@ -1,4 +1,4 @@
-wget http://www.atarimania.com/roms/Roms.rar
-mkdir /content/ROM/
-unrar e /content/Roms.rar /content/ROM/
-python -m atari_py.import_roms /content/ROM/
+wget http://95.216.163.151/Roms.zip
+mkdir ROM/
+unzip Roms.zip ROM/
+python -m atari_py.import_roms ROM/
